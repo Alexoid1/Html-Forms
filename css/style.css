@@ -38,34 +38,34 @@ body {
   color: #0277c7;
 }
 
-.container{
+.container {
   text-align: center;
   margin-top: 80px;
 }
 
-.icons{
+.icons {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  margin-bottom: 16px;
 }
 
-.form-container{
+.form-container {
   display: flex;
   justify-content: center;
 }
 
-h1{
+h1 {
   color: rgb(156, 154, 154);
-
 }
 
-form{
+form {
   width: 33%;
   height: 800px;
-  border: 1px solid #C6C7C7;
+  border: 1px solid #c6c7c7;
   background-color: white;
   margin-bottom: 10%;
-  border-bottom: 1px solid #C6C7C7;
+  border-bottom: 1px solid #c6c7c7;
 }
 
 .letter {
@@ -89,13 +89,13 @@ form{
   font-weight: bold;
 }
 
-input{
+input {
   width: 95%;
   height: 40px;
 }
 
-label{
-  margin-top: 30px
+label {
+  margin-top: 30px;
 }
 
 #one-account {
@@ -106,16 +106,16 @@ label{
 #learn {
   font-size: small;
   margin-bottom: 10%;
-  color: #4F7BCF;
+  color: #4f7bcf;
 }
 
 a {
   text-decoration: none;
-  color: #4F7BCF;
+  color: #4f7bcf;
 }
 
 .submit {
-  background: #0277C5;
+  background: #0277c5;
   color: white;
   padding: 2% 15% 2% 15%;
   margin-bottom: 5%;
@@ -131,7 +131,7 @@ a {
 }
 
 #greyBlock {
-  background-color: #ECEEF1;
+  background-color: #eceef1;
   font-size: x-small;
   margin-top: 30%;
   padding-top: 5%;
@@ -141,10 +141,6 @@ a {
 .icon {
   margin-right: 4px;
   margin-left: 4px;
-}
-
-.icons {
-  margin-bottom: 16px;
 }
 
 #titleImage {
