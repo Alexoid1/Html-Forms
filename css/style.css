@@ -3,12 +3,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: rgb(236, 238, 241);
   width: 1450px;
   position: absolute;
   font-family: 'Montserrat', sans-serif;
 }
+
 .sing-container {
   width: 22%;
   height: 40px;
@@ -23,7 +25,7 @@ body {
 
 .sign {
   color: white;
-  background: #0277C5;
+  background: #0277c5;
   padding: 5px;
   margin: 5px;
 }
@@ -33,26 +35,30 @@ body {
 }
 
 #forgot {
-  color: #0277C7;
+  color: #0277c7;
 }
 
 .container{
   text-align: center;
   margin-top: 80px;
 }
+
 .icons{
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
 }
+
 .form-container{
   display: flex;
   justify-content: center;
 }
+
 h1{
   color: rgb(156, 154, 154);
 
 }
+
 form{
   width: 33%;
   height: 800px;
@@ -75,10 +81,6 @@ form{
   margin-bottom: 2%;
 }
 
-
-
-
-
 #legend {
   font-size: 22px;
   margin-top: 5%;
@@ -91,9 +93,11 @@ input{
   width: 95%;
   height: 40px;
 }
+
 label{
   margin-top: 30px
 }
+
 #one-account {
   font-size: 14px;
   text-align: center;
